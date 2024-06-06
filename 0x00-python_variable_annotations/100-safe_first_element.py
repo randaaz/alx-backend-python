@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""  script defines a function to safely retrieve the first element of a sequence """
+"""retrieve the first element of a sequence """
 from typing import Any, Union, Sequence, Iterable, List, Tuple
 
 
